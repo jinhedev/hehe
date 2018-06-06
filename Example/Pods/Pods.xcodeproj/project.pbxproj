@@ -310,7 +310,7 @@
 		EF959663D47B18687B5785D72D856CB6 /* CwlMachBadInstructionHandler.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CwlMachBadInstructionHandler.h; path = Carthage/Checkouts/CwlPreconditionTesting/Sources/CwlMachBadInstructionHandler/include/CwlMachBadInstructionHandler.h; sourceTree = "<group>"; };
 		F2C33F4DC31A8120E8743B2A6163585F /* BeAnInstanceOf.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BeAnInstanceOf.swift; path = Sources/Nimble/Matchers/BeAnInstanceOf.swift; sourceTree = "<group>"; };
 		F4C7D6328493B73EF741AC61F4CEF01E /* QuickSelectedTestSuiteBuilder.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = QuickSelectedTestSuiteBuilder.swift; path = Sources/Quick/QuickSelectedTestSuiteBuilder.swift; sourceTree = "<group>"; };
-		F59DCBF720C771990025D1AF /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
+		F59DCBF720C771990025D1AF /* Assets */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Assets; path = hehe/Assets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -370,7 +370,7 @@
 		17087618C51207E3C07DECF9ED40F847 /* hehe */ = {
 			isa = PBXGroup;
 			children = (
-				F59DCBF720C771990025D1AF /* Media.xcassets */,
+				F59DCBF720C771990025D1AF /* Assets */,
 				B9C2855077FA2ABBC7A65EF50B137A02 /* SomeImageView.swift */,
 				ADA316051E110AF8C4F34123AA0AD158 /* Pod */,
 				E5CC33B4951C979F0AD16C957B5B0DEA /* Support Files */,
