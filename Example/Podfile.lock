@@ -1,0 +1,27 @@
+PODS:
+  - hehe (0.1.0)
+  - Nimble (7.0.3)
+  - Quick (1.2.0)
+
+DEPENDENCIES:
+  - hehe (from `../`)
+  - Nimble (~> 7.0.2)
+  - Quick (~> 1.2.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Nimble
+    - Quick
+
+EXTERNAL SOURCES:
+  hehe:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  hehe: 835643ad9ce0ac13f58a2b651f719a2e6077cfd7
+  Nimble: 7f5a9c447a33002645a071bddafbfb24ea70e0ac
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+
+PODFILE CHECKSUM: 7730a7d25d2baadbd3a27e03ba176e3fb0dc5cdf
+
+COCOAPODS: 1.5.3
